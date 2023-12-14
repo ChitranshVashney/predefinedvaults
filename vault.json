@@ -1,0 +1,850 @@
+[
+    {
+      "vaultId": 2,
+      "vaultName": "Bankless BED Index",
+      "vaultAddress": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
+      "vaultSymbol": "BED",
+      "vaultPrice": 0,
+      "vaultDescription": "Bankless proposed that the Index Coop manage a Set based on an index of Crypto’s most investable assets, BTC, ETH, and DPI, in equal weight.",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Aggressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "Bankless",
+      "vaultCoins": [
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+          "coinName": "Wrapped Ether",
+          "coinPrice": 1275.09,
+          "vaultPerc": 32.73,
+          "coinSymbol": "WETH",
+          "coinAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+          "coinName": "Wrapped Bitcoin",
+          "coinPrice": 17022.9,
+          "vaultPerc": 32.64,
+          "coinSymbol": "WBTC",
+          "coinAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7055.png",
+          "coinName": "DefiPulse Index",
+          "coinPrice": 69.84,
+          "vaultPerc": 34.63,
+          "coinSymbol": "DPI",
+          "coinAddress": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b"
+        }
+      ],
+      "vaultStatus": true,
+      "chainID": "1",
+      "tradeable": 1,
+      "createdBy": null,
+      "modifiedBy": null,
+      "createdAt": "2022-10-14T11:58:41.000Z",
+      "updatedAt": "2023-02-01T11:26:56.000Z"
+    },
+    {
+      "vaultId": 3,
+      "vaultName": "Metaverse Index",
+      "vaultAddress": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
+      "vaultSymbol": "MVI",
+      "vaultPrice": 0,
+      "vaultDescription": "The Metaverse Index (MVI) is designed to capture the trend of entertainment, sports and business shifting to take place in virtual environments.",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Aggressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "MetaPortal",
+      "vaultCoins": [
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8719.png",
+          "coinName": "Illuvium",
+          "coinPrice": 41.78,
+          "vaultPerc": 14.73,
+          "coinSymbol": "ILV",
+          "coinAddress": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png",
+          "coinName": "Axie Infinity",
+          "coinPrice": 10.436,
+          "vaultPerc": 14.78,
+          "coinSymbol": "AXS",
+          "coinAddress": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b"
+        },
+        {
+          "coinLogo": "\thttps://s2.coinmarketcap.com/static/img/coins/64x64/6210.png",
+          "coinName": "Sandbox",
+          "coinPrice": 0.584,
+          "vaultPerc": 10.07,
+          "coinSymbol": "SAND",
+          "coinAddress": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png",
+          "coinName": "Decentraland",
+          "coinPrice": 0.402,
+          "vaultPerc": 8.35,
+          "coinSymbol": "MANA",
+          "coinAddress": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
+        },
+        {
+          "coinLogo": "\thttps://s2.coinmarketcap.com/static/img/coins/64x64/2130.png",
+          "coinName": "EnjinCoin",
+          "coinPrice": 0.304,
+          "vaultPerc": 5.26,
+          "coinSymbol": "ENJ",
+          "coinAddress": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c"
+        },
+        {
+          "coinLogo": "\thttps://s2.coinmarketcap.com/static/img/coins/64x64/8136.png",
+          "coinName": "WAXE",
+          "coinPrice": 60.02,
+          "vaultPerc": 4.25,
+          "coinSymbol": "WAXE",
+          "coinAddress": "0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8075.png",
+          "coinName": "Rally",
+          "coinPrice": 0.01,
+          "vaultPerc": 2.18,
+          "coinSymbol": "RLY",
+          "coinAddress": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b"
+        },
+        {
+          "coinLogo": "\thttps://s2.coinmarketcap.com/static/img/coins/64x64/7455.png",
+          "coinName": "Audius",
+          "coinPrice": 0.16,
+          "vaultPerc": 4.1,
+          "coinSymbol": "AUDIO",
+          "coinAddress": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10688.png",
+          "coinName": "Yield Guild Games",
+          "coinPrice": 0.224,
+          "vaultPerc": 2.58,
+          "coinSymbol": "YGG",
+          "coinAddress": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73"
+        },
+        {
+          "coinLogo": "\thttps://s2.coinmarketcap.com/static/img/coins/64x64/15478.png",
+          "coinName": "Decentral Games",
+          "coinPrice": 0.03,
+          "vaultPerc": 1.52,
+          "coinSymbol": "DG",
+          "coinAddress": "0x4b520c812E8430659FC9f12f6d0c39026C83588D"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8615.png",
+          "coinName": "Ethernity",
+          "coinPrice": 1.97,
+          "vaultPerc": 2.18,
+          "coinSymbol": "ERN",
+          "coinAddress": "0xBBc2AE13b23d715c30720F079fcd9B4a74093505"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8191.png",
+          "coinName": "NFTX",
+          "coinPrice": 16.25,
+          "vaultPerc": 1.21,
+          "coinSymbol": "NFTX",
+          "coinAddress": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6679.png",
+          "coinName": "WHALE",
+          "coinPrice": 0.86,
+          "vaultPerc": 1.06,
+          "coinSymbol": "WHALE",
+          "coinAddress": "0x9355372396e3F6daF13359B7b607a3374cc638e0"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8037.png",
+          "coinName": "Virtua",
+          "coinPrice": 0.03,
+          "vaultPerc": 1.37,
+          "coinSymbol": "TVK",
+          "coinAddress": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5877.png",
+          "coinName": "Rarible",
+          "coinPrice": 2.16,
+          "vaultPerc": 2.18,
+          "coinSymbol": "RARI",
+          "coinAddress": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6993.png",
+          "coinName": "REVV",
+          "coinPrice": 0.013,
+          "vaultPerc": 0.91,
+          "coinSymbol": "REVV",
+          "coinAddress": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca"
+        }
+      ],
+      "vaultStatus": true,
+      "chainID": "1",
+      "tradeable": 1,
+      "createdBy": null,
+      "modifiedBy": null,
+      "createdAt": "2022-10-14T11:58:41.000Z",
+      "updatedAt": "2023-01-11T08:32:38.000Z"
+    },
+    {
+      "vaultId": 4,
+      "vaultName": "JPG NFT Index",
+      "vaultAddress": "0x02e7Ac540409D32C90BfB51114003a9E1fF0249c",
+      "vaultSymbol": "JPG",
+      "vaultPrice": 0,
+      "vaultDescription": "The JPG NFT Index (JPG) provides broad exposure to blue-chip and premier NFT collections through a single liquid token.",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Aggressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "Index Coop",
+      "vaultCoins": [
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11621.png",
+          "coinName": "Punk Token",
+          "coinPrice": 8805.96,
+          "vaultPerc": 22.87,
+          "coinSymbol": "PUNK",
+          "coinAddress": "0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8509.png",
+          "coinName": "XMON",
+          "coinPrice": 16595.46,
+          "vaultPerc": 24.12,
+          "coinSymbol": "XMON",
+          "coinAddress": "0x3aaDA3e213aBf8529606924d8D1c55CbDc70Bf74"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6679.png",
+          "coinName": "WHALE",
+          "coinPrice": 0.86,
+          "vaultPerc": 7.58,
+          "coinSymbol": "WHALE",
+          "coinAddress": "0x9355372396e3F6daF13359B7b607a3374cc638e0"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7095.png",
+          "coinName": "Unisocks",
+          "coinPrice": 24499,
+          "vaultPerc": 12.47,
+          "coinSymbol": "SOCKS",
+          "coinAddress": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11557.png",
+          "coinName": "The Doge NFT",
+          "coinPrice": 0.0073,
+          "vaultPerc": 5.67,
+          "coinSymbol": "DOG",
+          "coinAddress": "0xBAac2B4491727D78D2b78815144570b9f2Fe8899"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9205.png",
+          "coinName": "k21.kanon.art",
+          "coinPrice": 0.1376,
+          "vaultPerc": 3.91,
+          "coinSymbol": "K21",
+          "coinAddress": "0xB9d99C33eA2d86EC5eC6b8A4dD816EBBA64404AF"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11566.png",
+          "coinName": "ASH",
+          "coinPrice": 0.61,
+          "vaultPerc": 1.6,
+          "coinSymbol": "ASH",
+          "coinAddress": "0x64D91f12Ece7362F91A6f8E7940Cd55F05060b92"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11522.png",
+          "coinName": "Jenny Metaverse DAO Token",
+          "coinPrice": 0.15,
+          "vaultPerc": 8.09,
+          "coinSymbol": "uJENNY",
+          "coinAddress": "0xa499648fD0e80FD911972BbEb069e4c20e68bF22"
+        },
+        {
+          "coinLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+          "coinName": "Ether",
+          "coinPrice": 924.343,
+          "vaultPerc": 13.68,
+          "coinSymbol": "ETH",
+          "coinAddress": "Ethereum"
+        }
+      ],
+      "vaultStatus": true,
+      "chainID": "1",
+      "tradeable": 1,
+      "createdBy": null,
+      "modifiedBy": null,
+      "createdAt": "2022-10-14T11:58:41.000Z",
+      "updatedAt": "2022-12-01T07:31:01.000Z"
+    },
+    {
+      "vaultId": 70,
+      "vaultName": "MATIC Flexible Leverage Index on Polygon (MATIC2x-FLI-P)",
+      "vaultAddress": "0xf287d97b6345bad3d88856b26fb7c0ab3f2c7976",
+      "vaultSymbol": "MATIC2x-FLI-P",
+      "vaultPrice": 100,
+      "vaultDescription": "The MATIC Flexible Leverage Index on Polygon (MATIC2x-FLI-P) leverages a collateralized debt position by targeting a long 2x exposure to MATIC. ",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Agressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "MATIC Flexible Leverage Index on Polygon (MATIC2x-FLI-P)",
+      "vaultCoins": [
+        {
+          "vaultPerc": 50,
+          "coinSymbol": "USD Coin",
+          "coinAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "coinQuantity": 1234
+        },
+        {
+          "vaultPerc": 50,
+          "coinSymbol": "MATIC",
+          "coinAddress": "Polygon",
+          "coinQuantity": 1234
+        }
+      ],
+      "vaultStatus": true,
+      "chainID": "137",
+      "tradeable": 1,
+      "createdBy": "tarun@sevenbits.in",
+      "modifiedBy": "tarun@sevenbits.in",
+      "createdAt": null,
+      "updatedAt": null
+    },
+    {
+      "vaultId": 77,
+      "vaultName": "Web3 Data Economy Index",
+      "vaultAddress": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
+      "vaultSymbol": "DATA",
+      "vaultPrice": 0,
+      "vaultDescription": "Web3 enables a new data economy. The Web3 data economy is an ecosystem of data-centric protocols and applications disrupting the data monopolies built in Big Tech.",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Agressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "D4_DATA",
+      "vaultCoins": [
+        {
+          "vaultPerc": 100,
+          "coinSymbol": "USDC",
+          "coinAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "coinQuantity": 1.6778093e-11
+        }
+      ],
+      "vaultStatus": true,
+      "chainID": "1",
+      "tradeable": 1,
+      "createdBy": "tarun@sevenbits.in",
+      "modifiedBy": "tarun@sevenbits.in",
+      "createdAt": "2023-01-04T07:49:51.000Z",
+      "updatedAt": "2023-01-04T07:49:51.000Z"
+    },
+    {
+      "vaultId": 80,
+      "vaultName": "SCIFI Index",
+      "vaultAddress": "0xfDC4a3FC36df16a78edCAf1B837d3ACAaeDB2CB4",
+      "vaultSymbol": "SCIFI",
+      "vaultPrice": 0,
+      "vaultDescription": "SCIFI is SPICE DAO’s first index product. SCIFI is an actively curated, 100% physically backed fund representing small to mid cap tokens with high growth potential.",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Agressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "Spice DAO",
+      "vaultCoins": [
+        {
+          "vaultPerc": 15.38,
+          "coinSymbol": "SUSHI",
+          "coinAddress": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+          "coinQuantity": 0.03779720799999992
+        },
+        {
+          "vaultPerc": 3.85,
+          "coinSymbol": "DIA",
+          "coinAddress": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+          "coinQuantity": 0.05137983486515938
+        },
+        {
+          "vaultPerc": 0,
+          "coinSymbol": "SPICE",
+          "coinAddress": "0x1fDaB294EDA5112B7d066ED8F2E4E562D5bCc664",
+          "coinQuantity": 0.3829227972287019
+        },
+        {
+          "vaultPerc": 3.85,
+          "coinSymbol": "FTX Token",
+          "coinAddress": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
+          "coinQuantity": 0.010930128743763107
+        },
+        {
+          "vaultPerc": 3.85,
+          "coinSymbol": "PERP",
+          "coinAddress": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+          "coinQuantity": 0.01804842121964891
+        },
+        {
+          "vaultPerc": 15.38,
+          "coinSymbol": "CRV",
+          "coinAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+          "coinQuantity": 0.07001250096347073
+        },
+        {
+          "vaultPerc": 7.69,
+          "coinSymbol": "BAL",
+          "coinAddress": "0xba100000625a3754423978a60c9317c58a424e3D",
+          "coinQuantity": 0.003941681400720949
+        },
+        {
+          "vaultPerc": 11.54,
+          "coinSymbol": "NMR",
+          "coinAddress": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+          "coinQuantity": 0.002241813398611454
+        },
+        {
+          "vaultPerc": 30.77,
+          "coinSymbol": "FTM",
+          "coinAddress": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+          "coinQuantity": 0.3793730472400901
+        },
+        {
+          "vaultPerc": 0,
+          "coinSymbol": "KP3R",
+          "coinAddress": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
+          "coinQuantity": 3.24949994e-10
+        },
+        {
+          "vaultPerc": 7.69,
+          "coinSymbol": "DYDX",
+          "coinAddress": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+          "coinQuantity": 0.01985077389487075
+        }
+      ],
+      "vaultStatus": true,
+      "chainID": "1",
+      "tradeable": 1,
+      "createdBy": "tarun@sevenbits.in",
+      "modifiedBy": "tarun@sevenbits.in",
+      "createdAt": "2023-01-04T08:01:25.000Z",
+      "updatedAt": "2023-01-04T08:01:25.000Z"
+    },
+    {
+      "vaultId": 97,
+      "vaultName": "USDC Savings Vault",
+      "vaultAddress": "0x6bad6a9bcfda3fd60da6834ace5f93b8cfed9598",
+      "vaultSymbol": "USV",
+      "vaultPrice": 1,
+      "vaultDescription": "USDC Savings Vault accepts USDC giving you access to interest on your idle USDC. USDC has set the standard for regulation and transparency making it the most trusted stable coin in crypto.",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Agressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "phuture.finance",
+      "vaultCoins": [
+        {
+          "vaultPerc": 100,
+          "coinSymbol": "USDC",
+          "coinAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "coinQuantity": "374.23"
+        }
+      ],
+      "vaultStatus": false,
+      "chainID": "1",
+      "tradeable": 0,
+      "createdBy": "tarun@sevenbits.in",
+      "modifiedBy": "tarun@sevenbits.in",
+      "createdAt": null,
+      "updatedAt": null
+    },
+    {
+      "vaultId": 98,
+      "vaultName": "DEGEN Index",
+      "vaultAddress": "0x126c121f99e1e211df2e5f8de2d96fa36647c855",
+      "vaultSymbol": "DEGEN",
+      "vaultPrice": 0.94,
+      "vaultDescription": "The DEGEN Index aims to seek out alpha via higher risk/reward emerging projects with exceptionally high growth potential, predominantly in the DeFi sector.",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Agressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "indexed.finance",
+      "vaultCoins": [
+        {
+          "vaultPerc": 5.41,
+          "coinSymbol": "MIR",
+          "coinAddress": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+          "coinQuantity": 340395.645
+        },
+        {
+          "vaultPerc": 7.3,
+          "coinSymbol": "1INCH",
+          "coinAddress": "0x111111111117dc0aa78b770fa6a738034120c302",
+          "coinQuantity": 154164.595
+        },
+        {
+          "vaultPerc": 4.66,
+          "coinAddress": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+          "coinQuantity": 15971.48,
+          "coincoinSymbol": "BADGER"
+        },
+        {
+          "vaultPerc": 8.53,
+          "coinAddress": "0x408e41876cccdc0f92210600ef50372656052a38",
+          "coinQuantity": 1093310.07,
+          "coincoinSymbol": "REN"
+        },
+        {
+          "vaultPerc": 6.56,
+          "coinAddress": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+          "coinQuantity": 418297.534,
+          "coincoinSymbol": "WOO"
+        },
+        {
+          "vaultPerc": 5.09,
+          "coinAddress": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
+          "coinQuantity": 121418.843,
+          "coincoinSymbol": "POLS"
+        },
+        {
+          "vaultPerc": 6.27,
+          "coinAddress": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+          "coinQuantity": 290143.307,
+          "coincoinSymbol": "OCEAN"
+        },
+        {
+          "vaultPerc": 5.9,
+          "coinAddress": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+          "coinQuantity": 615550.022,
+          "coincoinSymbol": "ALPHA"
+        },
+        {
+          "vaultPerc": 4.83,
+          "coinAddress": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+          "coinQuantity": 111259.877,
+          "coincoinSymbol": "RGT"
+        },
+        {
+          "vaultPerc": 45.38,
+          "coinAddress": "0x320623b8e4ff03373931769a31fc52a4e78b5d70",
+          "coinQuantity": 111259.877,
+          "coincoinSymbol": "RSR"
+        }
+      ],
+      "vaultStatus": true,
+      "chainID": "1",
+      "tradeable": 1,
+      "createdBy": "tarun@sevenbits.in",
+      "modifiedBy": "tarun@sevenbits.in",
+      "createdAt": null,
+      "updatedAt": null
+    },
+    {
+      "vaultId": 99,
+      "vaultName": "ETH Flexible Leverage Index",
+      "vaultAddress": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+      "vaultSymbol": "ETH2x-FLI",
+      "vaultPrice": 6.3,
+      "vaultDescription": "The Ethereum Flexible Leverage Index (ETH2x-FLI) leverages a collateralized debt position on ETH by targeting a long 2x exposure to ETH.",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Agressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "indexcoop",
+      "vaultCoins": [
+        {
+          "vaultPerc": 50,
+          "coinAddress": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+          "coinQuantity": 84287,
+          "coincoinSymbol": "cETH"
+        },
+        {
+          "vaultPerc": 50,
+          "coinAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "coinQuantity": 84287,
+          "coincoinSymbol": "USDC"
+        }
+      ],
+      "vaultStatus": true,
+      "chainID": "1",
+      "tradeable": 1,
+      "createdBy": "tarun@sevenbits.in",
+      "modifiedBy": "tarun@sevenbits.in",
+      "createdAt": null,
+      "updatedAt": null
+    },
+    {
+      "vaultId": 100,
+      "vaultName": "Inverse MATIC Flexible Leverage Index",
+      "vaultAddress": "0x340f412860da7b7823df372a2b59ff78b7ae6abc",
+      "vaultSymbol": "IMATIC-FLI-P",
+      "vaultPrice": 62.9,
+      "vaultDescription": "The Inverse MATIC Flexible Leverage Index on Polygon enables traders to automate leveraged exposure in a completely decentralized manner. iMATIC-FLI-P targets a short -1x exposure to MATIC and employs a flexible leverage mechanism for optimal rebalancing ",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Agressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "indexcoop",
+      "vaultCoins": [
+        {
+          "vaultPerc": 50,
+          "coinAddress": "0x1a13f4ca1d028320a707d99520abfefca3998b7f",
+          "coinQuantity": 45,
+          "coincoinSymbol": "AMUSDC"
+        },
+        {
+          "vaultPerc": 50,
+          "coinAddress": "Polygon",
+          "coinQuantity": 45,
+          "coincoinSymbol": "MATIC"
+        }
+      ],
+      "vaultStatus": true,
+      "chainID": "137",
+      "tradeable": 1,
+      "createdBy": "tarun@sevenbits.in",
+      "modifiedBy": "tarun@sevenbits.in",
+      "createdAt": null,
+      "updatedAt": null
+    },
+    {
+      "vaultId": 102,
+      "vaultName": "Phuture DeFi Index",
+      "vaultAddress": "0x632806BF5c8f062932Dd121244c9fbe7becb8B48",
+      "vaultSymbol": "PDI",
+      "vaultPrice": 0,
+      "vaultDescription": "The Phuture DeFi Index (PDI) offers exposure to the top crypto assets in the decentralised finance sector by market capitalisation. The assets in this index are part of the Ethereum ecosystem.",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Agressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "phuture.finance",
+      "vaultCoins": [
+        {
+          "vaultPerc": 6.44,
+          "coinSymbol": "YFI",
+          "coinAddress": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+          "coinQuantity": 1.177625015084121233
+        },
+        {
+          "vaultPerc": 3.86,
+          "coinSymbol": "1INCH",
+          "coinAddress": "0x111111111117dc0aa78b770fa6a738034120c302",
+          "coinQuantity": 9599.613266241753134645
+        },
+        {
+          "vaultPerc": 29.76,
+          "coinAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+          "coinQuantity": 5308.941311404511994314,
+          "coincoinSymbol": "UNI"
+        },
+        {
+          "vaultPerc": 2.9,
+          "coinAddress": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+          "coinQuantity": 867.168028662233995799,
+          "coincoinSymbol": "CVX"
+        },
+        {
+          "vaultPerc": 17.12,
+          "coinAddress": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+          "coinQuantity": 12126.948748627762158634,
+          "coincoinSymbol": "LDO"
+        },
+        {
+          "vaultPerc": 0.92,
+          "coinAddress": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+          "coinQuantity": 4901.893809625081402372,
+          "coincoinSymbol": "RBN"
+        },
+        {
+          "vaultPerc": 2.8,
+          "coinAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+          "coinQuantity": 2771.478345963097054789,
+          "coincoinSymbol": "SUSHI"
+        },
+        {
+          "vaultPerc": 11.86,
+          "coinAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+          "coinQuantity": 209.118762280969433027,
+          "coincoinSymbol": "AAVE"
+        },
+        {
+          "vaultPerc": 7.33,
+          "coinAddress": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+          "coinQuantity": 14.093759839018549986,
+          "coincoinSymbol": "MKR"
+        },
+        {
+          "vaultPerc": 1,
+          "coinAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "coinQuantity": 0,
+          "coincoinSymbol": "USDC"
+        },
+        {
+          "vaultPerc": 2.24,
+          "coinAddress": "0xba100000625a3754423978a60c9317c58a424e3d",
+          "coinQuantity": 408.136905964123671571,
+          "coincoinSymbol": "BAL"
+        },
+        {
+          "vaultPerc": 1,
+          "coinAddress": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+          "coinQuantity": 105.654569084393887732,
+          "coincoinSymbol": "COMP"
+        },
+        {
+          "vaultPerc": 1,
+          "coinAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+          "coinQuantity": 0.00000000000001,
+          "coincoinSymbol": "SNX"
+        },
+        {
+          "vaultPerc": 1,
+          "coinAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "coinQuantity": 0,
+          "coincoinSymbol": "WETH"
+        },
+        {
+          "vaultPerc": 6.23,
+          "coinAddress": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+          "coinQuantity": 275.340105619682277254,
+          "coincoinSymbol": "RPL"
+        },
+        {
+          "vaultPerc": 4.92,
+          "coinAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+          "coinQuantity": 8746.401570326018717837,
+          "coincoinSymbol": "CRV"
+        },
+        {
+          "vaultPerc": 1,
+          "coinAddress": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+          "coinQuantity": 0.00000000000001,
+          "coincoinSymbol": "ALCX"
+        },
+        {
+          "vaultPerc": 1.23,
+          "coinAddress": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+          "coinQuantity": 0.00000000000001,
+          "coincoinSymbol": "AMP"
+        }
+      ],
+      "vaultStatus": true,
+      "chainID": "1",
+      "tradeable": 1,
+      "createdBy": "tarun.k@sevenbits.in",
+      "modifiedBy": "tarun.k@sevenbits.in",
+      "createdAt": "2023-01-11T08:27:56.000Z",
+      "updatedAt": "2023-01-11T08:27:56.000Z"
+    },
+    {
+      "vaultId": 103,
+      "vaultName": "Defi Pulse Index",
+      "vaultAddress": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+      "vaultSymbol": "DPI",
+      "vaultPrice": 0,
+      "vaultDescription": "Defi Pulse Index",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Agressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "Defi Pulse",
+      "vaultCoins": [
+        {
+          "coinSymbol": "YFI",
+          "coinAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+          "coinQuantity": 0.000464444694645983
+        },
+        {
+          "coinSymbol": "COMP",
+          "coinAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+          "coinQuantity": 0.1014293273860497
+        },
+        {
+          "coinSymbol": "SNX",
+          "coinAddress": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+          "coinQuantity": 3.5578981850903615
+        },
+        {
+          "coinSymbol": "REN",
+          "coinAddress": "0x408e41876cCCDC0F92210600ef50372656052a38",
+          "coinQuantity": 14.794059202306617
+        },
+        {
+          "coinSymbol": "LRC",
+          "coinAddress": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+          "coinQuantity": 18.433271543160917
+        },
+        {
+          "coinSymbol": "BAL",
+          "coinAddress": "0xba100000625a3754423978a60c9317c58a424e3D",
+          "coinQuantity": 0.547594630373464
+        },
+        {
+          "coinSymbol": "UNI",
+          "coinAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+          "coinQuantity": 3.6347982185399914
+        },
+        {
+          "coinSymbol": "AAVE",
+          "coinAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+          "coinQuantity": 0.2090857849655873
+        },
+        {
+          "coinSymbol": "SUSHI",
+          "coinAddress": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+          "coinQuantity": 2.8521356520385894
+        },
+        {
+          "coinSymbol": "WETH",
+          "coinAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "coinQuantity": 0.000003536148211238
+        }
+      ],
+      "vaultStatus": true,
+      "chainID": "1",
+      "tradeable": 1,
+      "createdBy": "ashish@sevenbits.in",
+      "modifiedBy": "ashish@sevenbits.in",
+      "createdAt": "2023-01-11T08:45:27.000Z",
+      "updatedAt": "2023-01-11T08:45:27.000Z"
+    },
+    {
+      "vaultId": 104,
+      "vaultName": "Bankless DeFi Innovation Index",
+      "vaultAddress": "0x47110d43175f7f2c2425e7d15792acc5817eb44f",
+      "vaultSymbol": "GMI",
+      "vaultPrice": 0,
+      "vaultDescription": "The Bankless DeFi Innovation Index is a simple composite index launched by the Index Cooperative. The index focuses on high growth, early stage DeFi projects which are not yet considered “blue chip”.",
+      "vaultBuytype": "Market Driven",
+      "vaultStrategy": "Agressive",
+      "vaultRebalancing": true,
+      "vaultHoldterm": "Short",
+      "vaultProvider": "Bankless2",
+      "vaultCoins": [
+        {
+          "coinSymbol": "USDC",
+          "coinAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "coinQuantity": 1.2262902e-11
+        }
+      ],
+      "vaultStatus": true,
+      "chainID": "1",
+      "tradeable": 1,
+      "createdBy": "tarun.k@sevenbits.in",
+      "modifiedBy": "tarun.k@sevenbits.in",
+      "createdAt": "2023-02-02T05:21:16.000Z",
+      "updatedAt": "2023-02-02T05:21:56.000Z"
+    }
+  ]
+  
