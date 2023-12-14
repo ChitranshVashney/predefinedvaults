@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "vaultId": "4005",
+    "vaultName": "Public Index Network",
+    "vaultAddress": "0x3b79a28264fc52c7b4cea90558aa0b162f7faf57",
+    "vaultSymbol": "PIN",
+    "vaultPrice": 0.0036638736940090583,
+    "vaultDescription": "Smart contract address of this index is 0x3b79a28264fc52c7b4cea90558aa0b162f7faf57",
+    "vaultBuytype": "Market Driven",
+    "vaultStrategy": "Aggressive",
+    "vaultRebalancing": true,
+    "vaultHoldterm": "Short",
+    "vaultProvider": "LiFi",
+    "vaultCoins": [
+      {
+        "coinLogo": null,
+        "coinName": "Public Index Network",
+        "coinPrice": 0.0036638736940090583,
+        "vaultPerc": 100,
+        "coinSymbol": "PIN",
+        "coinAddress": "0x3b79a28264fc52c7b4cea90558aa0b162f7faf57"
+      }
+    ],
+    "vaultStatus": true,
+    "chainID": "56",
+    "tradeable": 1,
+    "createdBy": null,
+    "modifiedBy": null,
+    "createdAt": "2023-12-14T11:26:56.000Z",
+    "updatedAt": "2023-12-14T11:26:56.000Z"
+  }
+]
